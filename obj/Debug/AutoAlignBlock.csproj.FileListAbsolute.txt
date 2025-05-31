@@ -1,0 +1,7 @@
+D:\HUY\7.NET C SHARP\CAD_API\AutoAlignBlock\bin\Debug\start.scr
+D:\HUY\7.NET C SHARP\CAD_API\AutoAlignBlock\bin\Debug\AutoAlignBlock.dll
+D:\HUY\7.NET C SHARP\CAD_API\AutoAlignBlock\bin\Debug\AutoAlignBlock.pdb
+D:\HUY\7.NET C SHARP\CAD_API\AutoAlignBlock\obj\Debug\AutoAlignBlock.csproj.AssemblyReference.cache
+D:\HUY\7.NET C SHARP\CAD_API\AutoAlignBlock\obj\Debug\AutoAlignBlock.csproj.CoreCompileInputs.cache
+D:\HUY\7.NET C SHARP\CAD_API\AutoAlignBlock\obj\Debug\AutoAlignBlock.dll
+D:\HUY\7.NET C SHARP\CAD_API\AutoAlignBlock\obj\Debug\AutoAlignBlock.pdb
